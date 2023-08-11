@@ -1,7 +1,7 @@
 # pazk
 Algorithms in Proofs, Arguments and Zero-Knowledge
 
-Simple algorithm implementations in [Proofs, Arguments and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) in Odin
+Simple algorithm implementations in [Proofs, Arguments and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) in [Odin](https://odin-lang.org/)
 
 ### Why Odin?
 
@@ -19,3 +19,6 @@ odin run freivalds.odin -file
 ```sh
 odin test .
 ```
+
+### Acknowledgements
+- thor314's pazk repo: https://github.com/thor314/pazk
