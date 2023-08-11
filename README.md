@@ -5,7 +5,7 @@ Simple algorithm implementations in [Proofs, Arguments and Zero-Knowledge](https
 
 ### Why Odin?
 
-- Odin supports [array programming](https://odin-lang.org/docs/overview/#array-programming), which makes it convenient to multiply arrays.
+- Odin supports [array programming](https://odin-lang.org/docs/overview/#array-programming), which makes it convenient to do operations on arrays.
 - I wanted to learn Odin :)
 
 ### Run
